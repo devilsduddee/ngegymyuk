@@ -21,4 +21,13 @@ web-build/
 # TypeScript
 *.tsbuildinfo
 
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Agent files
 .skills/
