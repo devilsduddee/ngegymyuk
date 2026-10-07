@@ -20,3 +20,5 @@ web-build/
 
 # TypeScript
 *.tsbuildinfo
+
+.skills/
